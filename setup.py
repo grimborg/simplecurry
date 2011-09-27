@@ -13,6 +13,6 @@ setup(
     version = '1.0',
     author = 'Òscar Vilaplana',
     author_email = 'dev@oscarvilaplana.cat',
-    url = '',
+    url = 'https://github.com/grimborg/simplecurry',
     packages=find_packages(curdir),
     )
