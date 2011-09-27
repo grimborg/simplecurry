@@ -3,7 +3,7 @@ Simplecurry’s ``curried`` provides a simple way to use curried functions in Py
 Example
 ~~~~~~~
 
-.. sourcecode:: python
+::
     from simplecurry import curried
 
     @curried
